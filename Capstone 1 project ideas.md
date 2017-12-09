@@ -11,7 +11,7 @@ Abstract: The data contains historical sales data for 45 Walmart stores in diffe
 
 ## Classifying genetic mutations based on clinical evidence
 ### Data: https://www.kaggle.com/c/msk-redefining-cancer-treatment
-Abstract: The dataset convers thousands of manually expert-annotated mutations based on the clinical evidence. The clinical evidence is often provided as text that needs to be interpreted. Here, automation, can contribute greatly to development of personalized cancer treatments that rely on extensive genetic testings. The result of such project would be relevant for hospitals and pharmaceutical companies.
+Abstract: The dataset covers thousands of manually expert-annotated mutations based on the clinical evidence. The clinical evidence is often provided as text that needs to be interpreted. Here, automation, can contribute greatly to development of personalized cancer treatments that rely on extensive genetic testings. The result of such project would be relevant for hospitals and pharmaceutical companies.
 
 
 
