@@ -1,7 +1,7 @@
 
 Predicting the quality of care and patient experience in Medicare hospitals
 Data: https://data.medicare.gov/data/hospital-compare
-Abstract: This dataset covers 4000 medicare hospitals in the US. It includes among others information on the hospital and safety of care ratings and effectiveness of care and patient experience comparisons. The data can be used to explore influential attributes resulting in higher quality of care as well as to provide insights for the furture patients when attempting to choose a hospital for a particular treatment. The result of such project would be relevant for the government, insurance companies, and application developer companies in healthcare.
+Abstract: This dataset covers 4000 medicare hospitals in the US. It includes among others information on the hospital and safety of care ratings and effectiveness of care and patient experience comparisons. The data can be used to explore influential attributes resulting in higher quality of care as well as to provide insights for the furture patients when attempting to choose a hospital for a particular treatment. The result of such project would be relevant for the government, insurance companies, and IT companies in healthcare.
 
 
 Store sales forcasting
