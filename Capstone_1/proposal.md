@@ -9,7 +9,7 @@
 **Modeling approach:** The summary star ratings follow a  5-star rating system that are representative of the amount of patient satisfaction at each hospital. Our predictive model, therefore, should classify the different hospital measures into 5 different classes and additionally predict the probability for each class. In this regard a supervised machine learning algorithm would be suitable. It is possible that there will not be enough training data for each of the 5 classes and care should be taken to address the imbalanced training data. We will moreover investigate different classification algorithms and compare their performances.
 
 **Deliverables:** 
-1. Python codes for: Data cleaning and wrangling, Exploratory data analysis,and Predictive Modeling
+1. Python codes for: Data cleaning and wrangling, Exploratory data analysis, and Predictive Modeling
 2. Capstone project report
 3. Capstone project presentation
                    
