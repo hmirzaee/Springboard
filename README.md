@@ -7,7 +7,7 @@ This folder contains all the materials (code+data+slide decks) for my first caps
 ## Capstone 2: To be added
 
 ## Mini projects
-This folder contains all the mini projects I performed. These includes
+This folder contains all the mini projects I performed. These include:
 * **data_wrangling_json:** getting familiar with python packages for dealing with JSON
 * **ModeSqlABCaseStudy.pdf:** A simple A/B test analysis with mode SQL
 * **human_temp:** Analayzing a dataset of human body temperatures and emply hypothesis testing, confidence intervals, and statistical significane
