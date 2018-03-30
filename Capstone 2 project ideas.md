@@ -1,5 +1,5 @@
 
-For my second capstone project I would like to explore with time-series analysis and forecasting methodologies. These are my three possibilities:
+For my second capstone project I would like to explore with time-series analysis and forecasting methodologies. These are my three suggestions:
 
 #### Data: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
